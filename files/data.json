@@ -24,6 +24,31 @@
             }
             ]
         }
+           ,
+           {
+
+            "title":"problem TSP",
+            "description":"script with java to solve problem Tsp(travel sale man) related to time path consider to arriver every patient in hospital using genetic algorithme  ",
+            "icon":"./files/icons/script.png",
+            "img":"./files/projects/doctortsp.jpg",
+            "skills":[
+                {
+                "skill":"Java"
+            },
+            {
+                "skill":"netbeans"
+            },
+            {
+                "skill":"Desktop"
+            },
+            {
+                "skill":"genetic algorithme"
+            },
+            {
+                "skill":"graph"
+            }
+            ]
+        }
            
            
      ,  
@@ -151,12 +176,54 @@
     }
     ]
 }
-   
-   
 ,  {
 
     "title":"Dama game",
-    "description":"android Game contain 2 traditional algerial game called dama 3X & 12X with two mode of playing 2 player in LAN and online this project project make learning about firebase and problem solving and made it as challenge my self with pure android without game engine help",
+    "description":"android App to learn deaf signs with quiz ",
+    "icon":"./files/icons/mobile.png",
+    "img":"./files/projects/deaf.jpg",
+    "skills":[
+       
+    {
+        "skill":"java"
+    },
+    
+            {
+                "skill":"Sqlite"
+            }
+            ,
+    
+    {
+        "skill":"Sharedpreference"
+    },
+   
+    {
+        "skill":"Android"
+    }
+    ,
+    {
+        "skill":"Android studio"
+    }
+    ,
+            {
+                "skill":"Retrofit"
+            }
+            ,
+
+    
+    {
+        "skill":"API"
+    }
+    ]
+}
+   
+   
+,
+   
+  {
+
+    "title":"Dama game",
+    "description":"android Game contain 2 traditional algerian game called dama 3X & 12X with two mode of playing 2 player in LAN and online this project project make learning about firebase and problem solving and made it as challenge my self with pure android without game engine help",
     "icon":"./files/icons/mobile.png",
     "img":"./files/projects/dama.jpg",
     "skills":[
@@ -246,6 +313,11 @@
             ,
             {
                 "skill":"API"
+            }
+            ,
+            
+            {
+                "skill":"Retrofit"
             }
             ,
             {
