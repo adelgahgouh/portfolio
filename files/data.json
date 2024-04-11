@@ -108,6 +108,85 @@
    
    
 ,  
+{
+
+    "title":"Share my data app",
+    "description":"android app to share app and files across android phone this project is my final project  in bachelores degree i learned a lot such us protocols ways sending data some base feature in android platform ",
+    "icon":"./files/icons/mobile.png",
+    "img":"./files/projects/sharemydata.jpg",
+    "skills":[
+        {
+            "skill":"AP hotspot"
+        },
+        {
+        "skill":"multithreading"
+    },
+    {
+        "skill":"ftp"
+    },
+    {
+        "skill":"java"
+    },
+    
+    {
+        "skill":"Thread"
+    },
+   
+    {
+        "skill":"Android"
+    }
+    ,
+    {
+        "skill":"Android studio"
+    }
+    ,
+    {
+        "skill":" Shared preference"
+    }
+    
+   
+    ,
+    {
+        "skill":"Socket"
+    }
+    ]
+}
+   
+   
+,  {
+
+    "title":"Dama game",
+    "description":"android Game contain 2 traditional algerial game called dama 3X & 12X with two mode of playing 2 player in LAN and online this project project make learning about firebase and problem solving and made it as challenge my self with pure android without game engine help",
+    "icon":"./files/icons/mobile.png",
+    "img":"./files/projects/sharemydata.jpg",
+    "skills":[
+       
+    {
+        "skill":"java"
+    },
+    
+    {
+        "skill":"Sharedpreference"
+    },
+   
+    {
+        "skill":"Android"
+    }
+    ,
+    {
+        "skill":"Android studio"
+    }
+    
+
+    ,
+    {
+        "skill":"Firebase"
+    }
+    ]
+}
+   
+   
+,  
      {
 
         "title":"Remote PC",
