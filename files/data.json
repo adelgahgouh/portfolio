@@ -1,0 +1,211 @@
+{
+    "projects":[
+      {
+
+            "title":"Endless runner 3d Game",
+            "description":"subway surfer replicat created when i previously learning game developpment with unity3d in this project  used shader to make look like road is curved",
+            "icon":"./files/icons/desktop.png",
+            "img":"./files/projects/subway.png",
+            "skills":[
+                {
+                "skill":"c#"
+            },
+            {
+                "skill":"unity3d"
+            },
+            {
+                "skill":"Desktop"
+            },
+            {
+                "skill":"Shader"
+            },
+            {
+                "skill":"Visual studio"
+            }
+            ]
+        }
+           
+           
+     ,  
+     {
+
+        "title":"Shooter multiplayer Game",
+        "description":"shooted game like CS 1.6 created during learning  game developpment with unity3d in this project  i learned how to make first person shooter game and how to make it multiplayed using server or on LAN using IP adresses",
+        "icon":"./files/icons/desktop.png",
+        "img":"./files/projects/shooter.jpg",
+        "skills":[
+            {
+            "skill":"c#"
+        },
+        {
+            "skill":"unity3d"
+        },
+        {
+            "skill":"Desktop"
+        },
+        {
+            "skill":"Shader"
+        },
+        {
+            "skill":"Multiplayer"
+        },
+        {
+            "skill":"Raycast"
+        },
+        {
+            "skill":"Visual studio"
+        }
+        ]
+    }
+       
+       
+ ,  
+     {
+
+        "title":"color game",
+        "description":"color switch replicat created when i previously learning game developpment with unity3d",
+        "icon":"./files/icons/mobile.png",
+        "img":"./files/projects/colorswitch.png",
+        "skills":[
+            {
+            "skill":"c#"
+        },
+        {
+            "skill":"unity3d"
+        },
+        {
+            "skill":"Android"
+        },
+        {
+            "skill":"Visual studio"
+        }
+        ]
+    }
+       
+       
+ ,  
+ {
+
+    "title":"Flappy bird game",
+    "description":"flappy bird game replicat created during learnig unity3d in project i learned the basic programming  in unity how colision prefab ..etc ",
+    "icon":"./files/icons/mobile.png",
+    "img":"./files/projects/flappy.jpg",
+    "skills":[
+        {
+        "skill":"c#"
+    },
+    {
+        "skill":"unity3d"
+    },
+    {
+        "skill":"Android"
+    },
+    {
+        "skill":"Visual studio"
+    }
+    ]
+}
+   
+   
+,  
+     {
+
+        "title":"Remote PC",
+        "description":"android app to controle pc with android phone such as controling media and pdfreader & use it as wireless mouse pad and keyboard ...etc",
+        "icon":"./files/icons/mobile.png",
+        "img":"./files/projects/remotepc.jpg",
+        "skills":[
+            {
+            "skill":"c#"
+        },
+        {
+            "skill":"java"
+        },
+        
+        {
+            "skill":"Thread"
+        },
+        {
+            "skill":"cmd"
+        },
+        {
+            "skill":"Android"
+        }
+        ,
+        {
+            "skill":"Android studio"
+        }
+        ,
+        {
+            "skill":"Visual studio"
+        }
+        ,
+        {
+            "skill":"Socket"
+        }
+        ]
+    }
+       
+       
+ ,  
+     {
+            "title":"Track my package",
+            "description":"android app for tracking package and parcel from different delivery company using Api",
+            "icon":"./files/icons/mobile.png",
+            "img":"./files/projects/trackmypack.jpg",
+
+            "skills":[
+                {
+                "skill":"dart"
+            },
+            {
+                "skill":"Flutter"
+            },
+            {
+                "skill":"Android"
+            }
+            ,
+            {
+                "skill":"API"
+            }
+            ,
+            {
+                "skill":"VS code"
+            }
+            ]
+        },
+        {
+            "title":"Note app",
+            "description":"web app created to learn React library ",
+            "icon":"./files/icons/website.png",
+            "img":"./files/projects/notereact.png",
+
+            "skills":[
+                {
+                "skill":"Javascript"
+            },
+            {
+                "skill":"css"
+            },
+            
+            {
+                "skill":"ReactJS"
+            },
+            
+            
+            {
+                "skill":"localstorage"
+            },
+             
+            {
+                "skill":"Html"
+            }
+            ]
+        }
+           
+           
+           
+       
+      
+    ]
+  }
