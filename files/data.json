@@ -52,6 +52,40 @@
            
            
      ,  
+     
+           {
+
+            "title":"autopost blogger facebook",
+            "description":"script with python to read data from json or csv file post and schedule time to post in blogger then autopost to facebook page",
+            "icon":"./files/icons/script.png",
+            "img":"./files/projects/nopreview.jpg",
+            "skills":[
+                {
+                "skill":"Python"
+            },
+            {
+                "skill":"facebook developper graph api"
+            },
+            {
+                "skill":"Blogger v3 api"
+            },
+            {
+                "skill":"Json"
+            },
+            {
+                "skill":"cmd"
+            },
+            {
+                "skill":"taskmanager"
+            },
+            {
+                "skill":"VS code"
+            }
+            ]
+        }
+           
+           
+     ,  
      {
 
         "title":"Shooter multiplayer Game",
