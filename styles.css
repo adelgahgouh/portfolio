@@ -676,6 +676,8 @@ column-gap: 5px;
     margin-bottom: 30px;
    
   }
+  .skills{
+    grid-template-columns: auto auto ;}
 
 }
 
