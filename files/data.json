@@ -1,396 +1,475 @@
 {
-    "projects":[
-      {
-
-            "title":"Endless runner 3d Game",
-            "description":"subway surfer replicat created when i previously learning game developpment with unity3d in this project  used shader to make look like road is curved",
-            "icon":"./files/icons/desktop.png",
-            "img":"./files/projects/subway.png",
-            "skills":[
+    "projects": [
+        {
+            "title": "Endless runner 3d Game",
+            "description": "subway surfer replicat created when i previously learning game developpment with unity3d in this project  used shader to make look like road is curved",
+            "icon": "./files/icons/desktop.png",
+            "img": "./files/projects/subway.png",
+            "skills": [
                 {
-                "skill":"c#"
-            },
-            {
-                "skill":"unity3d"
-            },
-            {
-                "skill":"Desktop"
-            },
-            {
-                "skill":"Shader"
-            },
-            {
-                "skill":"Visual studio"
-            }
-            ]
-        }
-           ,
-           {
-
-            "title":"problem TSP",
-            "description":"script with java to solve problem Tsp(travel sale man) related to time path consider to arriver every patient in hospital using genetic algorithme  ",
-            "icon":"./files/icons/script.png",
-            "img":"./files/projects/doctortsp.jpg",
-            "skills":[
+                    "skill": "c#"
+                },
                 {
-                "skill":"Java"
-            },
-            {
-                "skill":"netbeans"
-            },
-            {
-                "skill":"Desktop"
-            },
-            {
-                "skill":"genetic algorithme"
-            },
-            {
-                "skill":"graph"
-            }
-            ]
-        }
-           
-           
-     ,  
-     
-           {
-
-            "title":"autopost blogger facebook",
-            "description":"script with python to read data from json or csv file post and schedule time to post in blogger then autopost to facebook page",
-            "icon":"./files/icons/script.png",
-            "img":"./files/projects/nopreview.jpg",
-            "skills":[
+                    "skill": "unity3d"
+                },
                 {
-                "skill":"Python"
-            },
-            {
-                "skill":"facebook developper graph api"
-            },
-            {
-                "skill":"Blogger v3 api"
-            },
-            {
-                "skill":"Json"
-            },
-            {
-                "skill":"cmd"
-            },
-            {
-                "skill":"taskmanager"
-            },
-            {
-                "skill":"VS code"
-            }
+                    "skill": "Desktop"
+                },
+                {
+                    "skill": "Shader"
+                },
+                {
+                    "skill": "Visual studio"
+                }
             ]
-        }
-           
-           
-     ,  
-     {
-
-        "title":"Shooter multiplayer Game",
-        "description":"shooted game like CS 1.6 created during learning  game developpment with unity3d in this project  i learned how to make first person shooter game and how to make it multiplayed using server or on LAN using IP adresses",
-        "icon":"./files/icons/desktop.png",
-        "img":"./files/projects/shooter.jpg",
-        "skills":[
-            {
-            "skill":"c#"
         },
         {
-            "skill":"unity3d"
+            "title": "Funeral app",
+            "description": "android app to share dead peaple in algeria this project help to know about flutter platform",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/funeral.jpg",
+            "skills": [
+                {
+                    "skill": "Flutter"
+                },
+                {
+                    "skill": "dart"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "api.imgbb"
+                },
+                {
+                    "skill": "Getx"
+                },
+                {
+                    "skill": "Json"
+                },
+                {
+                    "skill": "Firebase"
+                },
+                {
+                    "skill": "Shared preference"
+                },
+                {
+                    "skill": "Firebase"
+                },
+                {
+                    "skill": "Android studio"
+                }
+            ]
         },
         {
-            "skill":"Desktop"
-        },
-        {
-            "skill":"Shader"
-        },
-        {
-            "skill":"Multiplayer"
-        },
-        {
-            "skill":"Raycast"
-        },
-        {
-            "skill":"Visual studio"
-        }
-        ]
-    }
-       
-       
- ,  
-     {
-
-        "title":"Color Game",
-        "description":"color switch replicat created when i previously learning game developpment with unity3d",
-        "icon":"./files/icons/mobile.png",
-        "img":"./files/projects/colorswitch.jpg",
-        "skills":[
-            {
-            "skill":"c#"
-        },
-        {
-            "skill":"unity3d"
-        },
-        {
-            "skill":"Android"
-        },
-        {
-            "skill":"Visual studio"
-        }
-        ]
-    }
-       
-       
- ,  
- {
-
-    "title":"Flappy bird game",
-    "description":"flappy bird game replicat created during learnig unity3d in project i learned the basic programming  in unity how colision prefab ..etc ",
-    "icon":"./files/icons/mobile.png",
-    "img":"./files/projects/flappy.jpg",
-    "skills":[
-        {
-        "skill":"c#"
-    },
-    {
-        "skill":"unity3d"
-    },
-    {
-        "skill":"Android"
-    },
-    {
-        "skill":"Visual studio"
-    }
-    ]
-}
-   
-   
-,  
-{
-
-    "title":"Share my data",
-    "description":"android app to share app and files across android phone this project is my final project  in bachelores degree i learned a lot such us protocols ways sending data some base feature in android platform ",
-    "icon":"./files/icons/mobile.png",
-    "img":"./files/projects/sharemydata.jpg",
-    "skills":[
-        {
-            "skill":"AP hotspot"
-        },
-        {
-        "skill":"multithreading"
-    },
-    {
-        "skill":"ftp"
-    },
-    {
-        "skill":"java"
-    },
-    
-    {
-        "skill":"Thread"
-    },
-   
-    {
-        "skill":"Android"
-    }
-    ,
-    {
-        "skill":"Android studio"
-    }
-    ,
-    {
-        "skill":" Shared preference"
-    }
-    
-   
-    ,
-    {
-        "skill":"Socket"
-    }
-    ]
-}
-,  {
-
-    "title":"Dama game",
-    "description":"android App to learn deaf signs with quiz ",
-    "icon":"./files/icons/mobile.png",
-    "img":"./files/projects/deaf.jpg",
-    "skills":[
-       
-    {
-        "skill":"java"
-    },
-    
-            {
-                "skill":"Sqlite"
-            }
-            ,
-    
-    {
-        "skill":"Sharedpreference"
-    },
-   
-    {
-        "skill":"Android"
-    }
-    ,
-    {
-        "skill":"Android studio"
-    }
-    ,
-            {
-                "skill":"Retrofit"
-            }
-            ,
-
-    
-    {
-        "skill":"API"
-    }
-    ]
-}
-   
-   
-,
-   
-  {
-
-    "title":"Dama game",
-    "description":"android Game contain 2 traditional algerian game called dama 3X & 12X with two mode of playing 2 player in LAN and online this project project make learning about firebase and problem solving and made it as challenge my self with pure android without game engine help",
-    "icon":"./files/icons/mobile.png",
-    "img":"./files/projects/dama.jpg",
-    "skills":[
-       
-    {
-        "skill":"java"
-    },
-    
-    {
-        "skill":"Sharedpreference"
-    },
-   
-    {
-        "skill":"Android"
-    }
-    ,
-    {
-        "skill":"Android studio"
-    }
-    
-
-    ,
-    {
-        "skill":"Firebase"
-    }
-    ]
-}
-   
-   
-,  
-     {
-
-        "title":"Remote PC",
-        "description":"android app to controle pc with android phone such as controling media and pdfreader & use it as wireless mouse pad and keyboard ...etc",
-        "icon":"./files/icons/mobile.png",
-        "img":"./files/projects/remotepc.jpg",
-        "skills":[
-            {
-            "skill":"c#"
-        },
-        {
-            "skill":"java"
-        },
-        
-        {
-            "skill":"Thread"
-        },
-        {
-            "skill":"cmd"
-        },
-        {
-            "skill":"Android"
+            "title": "arabic manga web",
+            "description": "website  to add & show (CRUD) manga of animes this project was the first time i created project with laravel framework and web in general i learned a lot  such mvc pattern authentication admin panel blade template...etc ",
+            "icon": "./files/icons/web.png",
+            "img": "./files/projects/mangaweb.jpg",
+            "skills": [
+                {
+                    "skill": "PHP"
+                },
+                {
+                    "skill": "MYSQL"
+                },
+                {
+                    "skill": "Web"
+                },
+                {
+                    "skill": "HTML"
+                },
+                {
+                    "skill": "CSS"
+                },
+                {
+                    "skill": "Javascript"
+                },
+                {
+                    "skill": "Session"
+                },
+                {
+                    "skill": "Cookies"
+                },
+                {
+                    "skill": "Blade"
+                },
+                {
+                    "skill": "notification"
+                },
+               
+                
+                {
+                    "skill": "MVC"
+                },
+                
+                
+                {
+                    "skill": "VS code"
+                }
+            ]
         }
         ,
         {
-            "skill":"Android studio"
-        }
-        ,
-        {
-            "skill":"Visual studio"
-        }
-        ,
-        {
-            "skill":"Socket"
-        }
-        ]
-    }
-       
-       
- ,  
-     {
-            "title":"Track my package",
-            "description":"android app for tracking package and parcel from different delivery company using Api",
-            "icon":"./files/icons/mobile.png",
-            "img":"./files/projects/trackmypack.jpg",
-
-            "skills":[
+            "title": "arabic manga app",
+            "description": "android app to fetch manga of animes this project add me confident to make clean architecture using MVVM & ROOM Database and know about caching ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/mangaapp.jpg",
+            "skills": [
                 {
-                "skill":"dart"
-            },
-            {
-                "skill":"Flutter"
-            },
-            {
-                "skill":"Android"
-            }
-            ,
-            {
-                "skill":"API"
-            }
-            ,
-            
-            {
-                "skill":"Retrofit"
-            }
-            ,
-            {
-                "skill":"VS code"
-            }
+                    "skill": "java"
+                },
+                {
+                    "skill": "Sqlite"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Retrofit"
+                },
+                {
+                    "skill": "notification"
+                },
+                {
+                    "skill": "Shared preference"
+                },
+                
+                {
+                    "skill": "Retrofit"
+                },
+                
+                {
+                    "skill": "MVVM"
+                },
+                {
+                    "skill": "ROOM"
+                },
+                
+                {
+                    "skill": "Android studio"
+                }
+            ]
+        }
+        ,
+        {
+            "title": "Print service app",
+            "description": "android app for chinese pos printer doesn't accept to print image this project created to add print image  feature & this first time i managed to edited printer driver  ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/posprinter.jpg",
+            "skills": [
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "lib"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "service"
+                },
+                {
+                    "skill": "c"
+                },
+                {
+                    "skill": "Shared preference"
+                },
+                
+                {
+                    "skill": "Android studio"
+                }
             ]
         },
         {
-            "title":"Note app",
-            "description":"web app created to learn React library ",
-            "icon":"./files/icons/website.png",
-            "img":"./files/projects/notereact.png",
-
-            "skills":[
+            "title": "problem TSP",
+            "description": "script with java to solve problem Tsp(travel sale man) related to time path consider to arriver every patient in hospital using genetic algorithme  ",
+            "icon": "./files/icons/script.png",
+            "img": "./files/projects/doctortsp.jpg",
+            "skills": [
                 {
-                "skill":"Javascript"
-            },
-            {
-                "skill":"css"
-            },
-            
-            {
-                "skill":"ReactJS"
-            },
-            
-            
-            {
-                "skill":"localstorage"
-            },
-             
-            {
-                "skill":"Html"
-            }
+                    "skill": "Java"
+                },
+                {
+                    "skill": "netbeans"
+                },
+                {
+                    "skill": "Desktop"
+                },
+                {
+                    "skill": "genetic algorithme"
+                },
+                {
+                    "skill": "graph"
+                }
+            ]
+        },
+        {
+            "title": "autopost blogger facebook",
+            "description": "script with python to read data from json or csv file post and schedule time to post in blogger then autopost to facebook page",
+            "icon": "./files/icons/script.png",
+            "img": "./files/projects/nopreview.jpg",
+            "skills": [
+                {
+                    "skill": "Python"
+                },
+                {
+                    "skill": "facebook developper graph api"
+                },
+                {
+                    "skill": "Blogger v3 api"
+                },
+                {
+                    "skill": "Json"
+                },
+                {
+                    "skill": "cmd"
+                },
+                {
+                    "skill": "taskmanager"
+                },
+                {
+                    "skill": "VS code"
+                }
+            ]
+        },
+        {
+            "title": "Shooter multiplayer Game",
+            "description": "shooted game like CS 1.6 created during learning  game developpment with unity3d in this project  i learned how to make first person shooter game and how to make it multiplayed using server or on LAN using IP adresses",
+            "icon": "./files/icons/desktop.png",
+            "img": "./files/projects/shooter.jpg",
+            "skills": [
+                {
+                    "skill": "c#"
+                },
+                {
+                    "skill": "unity3d"
+                },
+                {
+                    "skill": "Desktop"
+                },
+                {
+                    "skill": "Shader"
+                },
+                {
+                    "skill": "Multiplayer"
+                },
+                {
+                    "skill": "Raycast"
+                },
+                {
+                    "skill": "Visual studio"
+                }
+            ]
+        },
+        {
+            "title": "Color Game",
+            "description": "color switch replicat created when i previously learning game developpment with unity3d",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/colorswitch.jpg",
+            "skills": [
+                {
+                    "skill": "c#"
+                },
+                {
+                    "skill": "unity3d"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Visual studio"
+                }
+            ]
+        },
+        {
+            "title": "Flappy bird game",
+            "description": "flappy bird game replicat created during learnig unity3d in project i learned the basic programming  in unity how colision prefab ..etc ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/flappy.jpg",
+            "skills": [
+                {
+                    "skill": "c#"
+                },
+                {
+                    "skill": "unity3d"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Visual studio"
+                }
+            ]
+        },
+        {
+            "title": "Share my data",
+            "description": "android app to share app and files across android phone this project is my final project  in bachelores degree i learned a lot such us protocols ways sending data some base feature in android platform ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/sharemydata.jpg",
+            "skills": [
+                {
+                    "skill": "AP hotspot"
+                },
+                {
+                    "skill": "multithreading"
+                },
+                {
+                    "skill": "ftp"
+                },
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "Thread"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Android studio"
+                },
+                {
+                    "skill": " Shared preference"
+                },
+                {
+                    "skill": "Socket"
+                }
+            ]
+        },
+        {
+            "title": "Deaf app",
+            "description": "android App to learn deaf signs with quiz ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/deaf.jpg",
+            "skills": [
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "Sqlite"
+                },
+                {
+                    "skill": "Sharedpreference"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Android studio"
+                },
+                {
+                    "skill": "Retrofit"
+                },
+                {
+                    "skill": "API"
+                }
+            ]
+        },
+        {
+            "title": "Dama game",
+            "description": "android Game contain 2 traditional algerian game called dama 3X & 12X with two mode of playing 2 player in LAN and online this project project make learning about firebase and problem solving and made it as challenge my self with pure android without game engine help",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/dama.jpg",
+            "skills": [
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "Sharedpreference"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Android studio"
+                },
+                {
+                    "skill": "Firebase"
+                }
+            ]
+        },
+        {
+            "title": "Remote PC",
+            "description": "android app to controle pc with android phone such as controling media and pdfreader & use it as wireless mouse pad and keyboard ...etc",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/remotepc.jpg",
+            "skills": [
+                {
+                    "skill": "c#"
+                },
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "Thread"
+                },
+                {
+                    "skill": "cmd"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Android studio"
+                },
+                {
+                    "skill": "Visual studio"
+                },
+                {
+                    "skill": "Socket"
+                }
+            ]
+        },
+        {
+            "title": "Track my package",
+            "description": "android app for tracking package and parcel from different delivery company using Api",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/trackmypack.jpg",
+            "skills": [
+                {
+                    "skill": "dart"
+                },
+                {
+                    "skill": "Flutter"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "API"
+                },
+                {
+                    "skill": "Retrofit"
+                },
+                {
+                    "skill": "VS code"
+                }
+            ]
+        },
+        {
+            "title": "Note app",
+            "description": "web app created to learn React library ",
+            "icon": "./files/icons/website.png",
+            "img": "./files/projects/notereact.png",
+            "skills": [
+                {
+                    "skill": "Javascript"
+                },
+                {
+                    "skill": "css"
+                },
+                {
+                    "skill": "ReactJS"
+                },
+                {
+                    "skill": "localstorage"
+                },
+                {
+                    "skill": "Html"
+                }
             ]
         }
-           
-           
-           
-       
-      
     ]
-  }
+}
