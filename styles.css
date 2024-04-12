@@ -451,7 +451,7 @@ column-gap: 5px;
 
 #image-modal {
   position: fixed; /* Makes the modal stay on top of other content */
-  top: 0;
+  top: 10%;
   left: 0;
   width: 100%;
   height: 100%;
@@ -476,7 +476,11 @@ column-gap: 5px;
   top: 10px;
   right: 10px;
   padding: 5px 10px;
-  border: 1px solid #ccc;
+  color: #000;
+  font-weight: bold;
+  background: #fed700;
+  border-radius: 10%;
+  border: 1px solid #000;
   cursor: pointer;
 }
 
