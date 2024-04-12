@@ -64,7 +64,7 @@
         {
             "title": "arabic manga web",
             "description": "website  to add & show (CRUD) manga of animes this project was the first time i created project with laravel framework and web in general i learned a lot  such mvc pattern authentication admin panel blade template...etc ",
-            "icon": "./files/icons/web.png",
+            "icon": "./files/icons/website.png",
             "img": "./files/projects/mangaweb.jpg",
             "skills": [
                 {
@@ -109,6 +109,44 @@
                 }
             ]
         }
+        ,
+        {
+            "title": "Coloring book app",
+            "description": "android app for kids to color unpainted images uses pallete this project help to know about framelayout and about NDK to uses CPP libraries to detect sketches ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/coloringbook.jpg",
+            "skills": [
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "Sqlite"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "NDK"
+                },
+                {
+                    "skill": "CPP"
+                },
+                {
+                    "skill": "Shared preference"
+                },
+                
+                {
+                    "skill": "Framelayout"
+                },
+                
+                
+                
+                {
+                    "skill": "Android studio"
+                }
+            ]
+        }
+        
         ,
         {
             "title": "arabic manga app",
