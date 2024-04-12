@@ -161,6 +161,9 @@
                     "skill": "Sqlite"
                 },
                 {
+                    "skill": "API"
+                },
+                {
                     "skill": "Android"
                 },
                 {
@@ -173,15 +176,60 @@
                     "skill": "Shared preference"
                 },
                 
-                {
-                    "skill": "Retrofit"
-                },
+              
                 
                 {
                     "skill": "MVVM"
                 },
                 {
                     "skill": "ROOM"
+                },
+                
+                {
+                    "skill": "Android studio"
+                }
+            ]
+        }
+        ,
+        {
+            "title": "social downloader app",
+            "description": "android app to download video from social media facebook instagram tiktok ..etc this project gain me know to extend my knowledge in webscraping to decription text and text escaping  ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/socialdownloader.jpg",
+            "skills": [
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "Sqlite"
+                },
+                {
+                    "skill": "API"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Retrofit"
+                },
+               
+                {
+                    "skill": "Shared preference"
+                },
+                
+              
+                
+                {
+                    "skill": "MVVM"
+                },
+                {
+                    "skill": "PHP"
+                },
+                {
+                    "skill": "Curl"
+                },
+                {
+                    "skill": "JSOUP"
                 },
                 
                 {
