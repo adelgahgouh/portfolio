@@ -24,6 +24,67 @@
             ]
         },
         {
+            "title": "stock manager app",
+            "description": "android app to manage local store stock +website as ecommerce +google drive as backup the ecommerce  created with laravel framework  this project add me confident to make clean architecture using MVVM & ROOM Database and know about caching and know about google apies",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/stocktablet.jpg",
+            "skills": [
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "PHP"
+                },
+                {
+                    "skill": "Session"
+                },
+                {
+                    "skill": "Laravel"
+                },
+                {
+                    "skill": "Sqlite"
+                },
+                {
+                    "skill": "API"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Retrofit"
+                },
+                {
+                    "skill": "notification"
+                },
+                {
+                    "skill": "HTML"
+                },
+                {
+                    "skill": "CSS"
+                },
+                {
+                    "skill": "GOOGLE DRIVE API"
+                },
+                {
+                    "skill": "Shared preference"
+                },
+                
+              
+                
+                {
+                    "skill": "MVVM"
+                },
+                {
+                    "skill": "ROOM"
+                },
+                
+                {
+                    "skill": "Android studio"
+                }
+            ]
+        }
+        ,
+        {
             "title": "Funeral app",
             "description": "android app to share dead peaple in algeria this project help to know about flutter platform",
             "icon": "./files/icons/mobile.png",
@@ -201,6 +262,9 @@
                     "skill": "java"
                 },
                 {
+                    "skill": "Text2speach"
+                },
+                {
                     "skill": "Sqlite"
                 },
                 {
@@ -273,6 +337,59 @@
                 },
                 {
                     "skill": "JSOUP"
+                },
+                
+                {
+                    "skill": "Android studio"
+                }
+            ]
+        }
+        ,
+        
+        {
+            "title": "Laundry app",
+            "description": "android app to manage laundry store +admin panel created with laravel framework  this project add me confident to make clean architecture using MVVM & ROOM Database and know about caching ",
+            "icon": "./files/icons/mobile.png",
+            "img": "./files/projects/laundryapp.jpg",
+            "skills": [
+                {
+                    "skill": "java"
+                },
+                {
+                    "skill": "PHP"
+                },
+                {
+                    "skill": "Session"
+                },
+                {
+                    "skill": "Laravel"
+                },
+                {
+                    "skill": "Sqlite"
+                },
+                {
+                    "skill": "API"
+                },
+                {
+                    "skill": "Android"
+                },
+                {
+                    "skill": "Retrofit"
+                },
+                {
+                    "skill": "notification"
+                },
+                {
+                    "skill": "Shared preference"
+                },
+                
+              
+                
+                {
+                    "skill": "MVVM"
+                },
+                {
+                    "skill": "ROOM"
                 },
                 
                 {
